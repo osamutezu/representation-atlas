@@ -1,0 +1,2 @@
+# v35 Mobile docks
+Based on v34. iPhone/iPad portrait: toolbar top, movement pad + language + on-demand help bottom, collapsible model/classification drawers bottom. Landscape: sidebars left/right, toolbar top in center. Removes persistent help overlay. Does not change data, camera logic, H18/H31/H36, section controls, Orbit/Explore/Focus. CSS no longer requires pointer:coarse, for in-app browsers. JavaScript syntax checked; physical iOS browser test pending.
